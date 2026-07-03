@@ -22,7 +22,11 @@ A real estate company wants to analyze residential property data to answer impor
 
 ---
 
-## 📂 Dataset Columns
+## 📂 Dataset
+
+**File:** `gurgaon_real_estate.csv`
+
+### Features
 
 - Price
 - Status
@@ -50,9 +54,7 @@ A real estate company wants to analyze residential property data to answer impor
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-The following analyses were performed:
-
-- Costliest Property
+- Costliest Property Analysis
 - Locality-wise Average Price
 - Rate Per Sqft Analysis
 - Property Status Analysis
@@ -84,52 +86,62 @@ The following analyses were performed:
 
 ### Area vs Price
 
-![Area vs Price](area_vs_price.png)
+![Area vs Price](./area_vs_price.png)
+
+---
 
 ### BHK-wise Average Price
 
-![BHK Price Analysis](bhk_price.png)
+![BHK Price Analysis](./bhk_price.png)
+
+---
 
 ### Property Type Analysis
 
-![Property Type Analysis](property_type_price.png)
+![Property Type Analysis](./property_type_price.png)
+
+---
 
 ### Top Premium Builders
 
-![Top Builders](top_builders.png)
+![Top Builders](./top_builders.png)
+
+---
 
 ### Area vs Rate Per Sqft
 
-![Area vs Rate Per Sqft](area_vs_rate_per_sqft.png)
+![Area vs Rate Per Sqft](./area_vs_rate_per_sqft.png)
+
+---
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](heatmap.png)
+![Correlation Heatmap](./heatmap.png)
 
 ---
 
 ## 💡 Key Insights
 
 - Premium localities have higher property prices.
-- Property area has a positive impact on price.
-- Villas and independent houses are the most expensive property types.
-- Some builders consistently charge premium prices.
+- Property area positively impacts property price.
+- Villas and independent houses are among the most expensive property types.
+- Premium builders consistently charge higher prices.
 - RERA-approved projects improve buyer confidence.
-- Larger properties are not always more expensive per square foot.
+- Larger homes are not always more expensive on a per-square-foot basis.
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Insight Generation
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights
 
 ---
 
